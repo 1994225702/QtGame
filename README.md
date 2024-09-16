@@ -1,2 +1,0 @@
-# QtGame
-Here is QtGame 
